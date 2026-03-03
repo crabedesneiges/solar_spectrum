@@ -8,4 +8,6 @@ dependencies = [
     "numpy",
     "matplotlib",
     "astropy",
+    "notebook>=7.3.3",
+    "astroquery>=0.4.7",
 ]
