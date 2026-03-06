@@ -80,11 +80,11 @@ This effect produces a **Gaussian line profile in frequency space**.
 
 The Doppler-broadened line profile is given by:
 
-$
+$$
 \phi(\nu) =
 \frac{1}{\Delta\nu_D \sqrt{\pi}}
 \exp\left[-\left(\frac{\nu - \nu_0}{\Delta\nu_D}\right)^2\right]
-$
+$$
 
 where:
 - $\nu_0$ is the central frequency of the transition,
